@@ -1,0 +1,11 @@
+# Ignorar el directorio del entorno virtual
+.venv/
+
+# Ignorar el directorio SQL
+sql/
+
+# Ignorar el archivo de variables de entorno
+.env
+
+# Ignorar el archivo de configuración
+config.txt
