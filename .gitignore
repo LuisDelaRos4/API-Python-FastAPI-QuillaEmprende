@@ -9,3 +9,6 @@ sql/
 
 # Ignorar el archivo de configuración
 config.txt
+
+# Ignorar archivos compilados de Python
+__pycache__/
